@@ -1,10 +1,16 @@
 # diabetes_dataset_classification
-
-#### Context: 
+## Using
+1. Logistic Regression
+2. kNN
+3. Decision Tree
+4. Naïve Bayes
+5. Support Vector Machine
+   
+### Context: 
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The
 objective is to predict based on diagnostic measurements whether a patient has diabetes.
 
-#### Content : 
+### Content : 
 Several constraints were placed on the selection of these instances from a larger database. In particular,
 all patients here are females at least 21 years old.
 Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
